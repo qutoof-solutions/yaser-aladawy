@@ -13,7 +13,7 @@
 
 ## قبل إضافة دومين مخصص
 
-1. استبدل الرابط `https://kram2556-dot.github.io/luna-master/` في `index.html` و`robots.txt` و`sitemap.xml` بالدومين المخصص.
+1. استبدل الرابط `https://qutoof-solutions.github.io/yaser-aladawy/` في `index.html` و`robots.txt` و`sitemap.xml` بالدومين المخصص.
 2. أضف بيانات Google Search Console بعد امتلاك الدومين النهائي.
 3. راجع بيانات الهاتف والصورة والادعاءات المهنية قبل الحملات الإعلانية.
 4. أرسل sitemap الجديد إلى Google Search Console بعد الربط.

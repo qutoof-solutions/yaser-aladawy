@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kram2556-dot.github.io/luna-master/sitemap.xml
+Sitemap: https://qutoof-solutions.github.io/yaser-aladawy/sitemap.xml

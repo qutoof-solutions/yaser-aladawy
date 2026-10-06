@@ -1,4 +1,4 @@
-name: Deploy Luna Master to GitHub Pages
+name: Deploy Yaser Aladawy to GitHub Pages
 
 on:
   push:
